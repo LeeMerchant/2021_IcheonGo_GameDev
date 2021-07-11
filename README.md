@@ -1,6 +1,5 @@
 # The_Great_Icheon_High_School_Rolling_Ball_School_Road
 
-깃허브용 README파일임.\
 이천고 자율교육과정 진행 중 제작함.\
 여기는 코드밖에 없음.\
 \
